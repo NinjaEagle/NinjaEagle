@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an ecommerce React Native app and Typescript testing framework
 - 🌱 I’m currently learning MobX, Vue
-- 👯 I’m looking to collaborate with other people in solving 
+- 👯 I’m looking to collaborate with other people in solving issues that are affecting people currently
 - 🤔 I’m looking for resources to learn testing libraries and CI/CD tools
 - 📫 How to reach me: Links below :arrow_down:
 - 😄 Pronouns: he/him
