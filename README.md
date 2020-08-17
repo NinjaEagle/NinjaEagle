@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
+<details>
+  <summary> :zap: Github Stats </summary>
+  <img align="left" alt="NinjaEagle's Github Stats" src="https://github-readme-stats-chi-ten.vercel.app/api?   username=NinjaEagle&show_icons=true&hide_border=true"/>
+</details>
