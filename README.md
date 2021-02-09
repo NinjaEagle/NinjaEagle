@@ -1,7 +1,7 @@
 ### Hi there, I'm Kevin 👋
 
 
-## I'm a Developer, Pianist, and Engineer!
+## I'm a Software Engineer!
 
 - 🔭 I’m currently working on an ecommerce React Native app using Typescript
 - 🌱 I’m currently learning MobX, Vue
