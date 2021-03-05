@@ -4,7 +4,7 @@
 ## I'm a Software Engineer!
 
 - 🔭 I’m currently working on an ecommerce React Native app using Typescript
-- 🌱 I’m currently learning MobX, Vue
+- 🌱 I’m currently learning Flask, Vue
 - 🤔 I’m looking for resources to learn testing libraries and CI/CD tools
 - 📫 How to reach me: Links below :arrow_down:
 - 😄 Pronouns: he/him
